@@ -2,7 +2,7 @@
 
 A simple, fast, and efficient desktop application for compressing images, built with Go and the Fyne toolkit.
 
-![Screenshot](/Image-compressor-golang-desktop-app/Screenshot%202025-12-11%20at%2022.53.40.png) 
+![Screenshot](Screenshot%202025-12-11%20at%2022.53.40.png) 
 
 ## Features
 
