@@ -68,3 +68,4 @@ This project relies on the following Go libraries:
 - [fyne.io/fyne/v2](https://github.com/fyne-io/fyne): A cross-platform GUI toolkit for Go.
 - [github.com/disintegration/imaging](https://github.com/disintegration/imaging): An image processing library for Go.
 - [github.com/rwcarlsen/goexif](https://github.com/rwcarlsen/goexif): A library for reading EXIF data from images.
+  
