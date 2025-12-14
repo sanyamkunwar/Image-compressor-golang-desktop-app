@@ -33,7 +33,7 @@ A simple, fast, and efficient desktop application for compressing images, built 
 
 To build and run this application from source, you need to have Go and the Fyne dependencies installed.
 
-### Prerequisites
+### Prerequisites 
 
 - **Go:** Version 1.17 or later.
 - **Fyne Dependencies:** Follow the instructions on the [Fyne website](https://developer.fyne.io/started/) to set up your system for Fyne development. This usually involves installing a C compiler (like GCC) and other graphics libraries.
